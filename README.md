@@ -1,4 +1,4 @@
-## ALura+
+## Alura+
 
 Olá, Bem-vindo ao meu projeto da Alura.
 
@@ -10,7 +10,7 @@ Esse projeto trata-se de uma página da Alura plus para web, desenvolvido a part
 
 ## 📁 Galeria do projeto
 
-[Veja o projeto final do curso em funcionamento](https://portfolio-alura-kappa-five.vercel.app/curriculo.html).
+[Veja o projeto final do curso em funcionamento](https://alura-plus-iota-seven.vercel.app).
 
 ![Alura+ Site](https://github.com/TwoTonne/alura-plus/assets/69181302/6219865b-c9f2-4bb3-ab3f-ece72d7cb880)
 
